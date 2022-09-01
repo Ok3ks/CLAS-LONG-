@@ -10,6 +10,9 @@ This is an example file with default selections.
 - pip install transformers
 - pip install sklearn
 - pip install torch 
+- pip install datasets
+- pip install seaborn
+- pip install sentencepiece
 ```
 ```
 
