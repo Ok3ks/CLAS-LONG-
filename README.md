@@ -6,10 +6,10 @@ This is an example file with default selections.
 
 ## Install
 
-pip install sklearn
-pip install transformers
-pip install sklearn
-pip install torch 
+- pip install sklearn
+- pip install transformers
+- pip install sklearn
+- pip install torch 
 ```
 ```
 
